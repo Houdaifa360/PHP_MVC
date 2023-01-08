@@ -7,13 +7,13 @@
  *
 */
 
-namespace app\core\exception;
+namespace ho_b7\phpmvc\exception;
 
 /**
  * Class ForbiddenException
  * 
  * @author houdaifa <boucena214@gmail.com>
- * @package app\core\exception;
+ * @package ho_b7\phpmvc\exception;
 */
 
 class ForbiddenException extends \Exception

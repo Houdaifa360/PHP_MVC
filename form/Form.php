@@ -7,14 +7,14 @@
  *
 */
 
-namespace app\core\form;
-use app\core\Model;
+namespace ho_b7\phpmvc\form;
+use ho_b7\phpmvc\Model;
 
 /**
  * Class Form
  * 
  * @author houdaifa <boucena214@gmail.com>
- * @package app\core\form;
+ * @package ho_b7\phpmvc\form;
 */
 
 class Form 

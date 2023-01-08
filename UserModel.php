@@ -7,14 +7,14 @@
  *
 */
 
-namespace app\core;
-use app\core\db\DbModel;
+namespace ho_b7\phpmvc;
+use ho_b7\phpmvc\db\DbModel;
 
 /**
  * Class UserModel
  * 
  * @author houdaifa <boucena214@gmail.com>
- * @package app\core;
+ * @package ho_b7\phpmvc;
 */
 
 abstract class UserModel extends DbModel

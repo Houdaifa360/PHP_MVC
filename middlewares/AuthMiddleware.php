@@ -7,15 +7,15 @@
  *
 */
 
-namespace app\core\middlewares;
-use app\core\Application;
-use app\core\exception\ForbiddenException;
+namespace ho_b7\phpmvc\middlewares;
+use ho_b7\phpmvc\Application;
+use ho_b7\phpmvc\exception\ForbiddenException;
 
 /**
  * Class AuthMiddleware
  * 
  * @author houdaifa <boucena214@gmail.com>
- * @package app\core\middlewares;
+ * @package ho_b7\phpmvc\middlewares;
 */
 
 class AuthMiddleware extends BaseMiddleware

@@ -7,14 +7,14 @@
  *
 */
 
-namespace app\core\db;
-use app\core\Application;
+namespace ho_b7\phpmvc\db;
+use ho_b7\phpmvc\Application;
 
 /**
  * Class Database
  * 
  * @author houdaifa <boucena214@gmail.com>
- * @package app\core;
+ * @package ho_b7\phpmvc;
 */
 
 class Database 

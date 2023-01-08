@@ -7,13 +7,13 @@
  *
 */
 
-namespace app\core;
+namespace ho_b7\phpmvc;
 
 /**
  * Class Request
  * 
  * @author houdaifa <boucena214@gmail.com>
- * @package app\core;
+ * @package ho_b7\phpmvc;
 */
 
 class Request 

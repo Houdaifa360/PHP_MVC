@@ -7,15 +7,15 @@
  *
 */
 
-namespace app\core\db;
-use app\core\Application;
-use app\core\Model;
+namespace ho_b7\phpmvc\db;
+use ho_b7\phpmvc\Application;
+use ho_b7\phpmvc\Model;
 
 /**
  * Class DbModel
  * 
  * @author houdaifa <boucena214@gmail.com>
- * @package app\core;
+ * @package ho_b7\phpmvc;
 */
 
 abstract class DbModel extends Model

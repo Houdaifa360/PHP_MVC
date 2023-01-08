@@ -7,13 +7,13 @@
  *
 */
 
-namespace app\core\middlewares;
+namespace ho_b7\phpmvc\middlewares;
 
 /**
  * Class BaseMiddleware
  * 
  * @author houdaifa <boucena214@gmail.com>
- * @package app\core\middlewares;
+ * @package ho_b7\phpmvc\middlewares;
 */
 
 abstract class BaseMiddleware 

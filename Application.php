@@ -7,16 +7,16 @@
  *
 */
 
-namespace app\core;
+namespace ho_b7\phpmvc;
 use app\controllers\Controller;
-use app\core\db\Database;
-use app\core\UserModel;
+use ho_b7\phpmvc\db\Database;
+use ho_b7\phpmvc\UserModel;
 
 /**
  * Class Application
  * 
  * @author houdaifa <boucena214@gmail.com>
- * @package app\core;
+ * @package ho_b7\phpmvc;
 */
 
 class Application 

@@ -7,14 +7,14 @@
  *
 */
 
-namespace app\core;
-use app\core\exception\NotFoundException;
+namespace ho_b7\phpmvc;
+use ho_b7\phpmvc\exception\NotFoundException;
 
 /**
  * Class Router
  * 
  * @author houdaifa <boucena214@gmail.com>
- * @package app\core;
+ * @package ho_b7\phpmvc;
 */
 
 class Router 

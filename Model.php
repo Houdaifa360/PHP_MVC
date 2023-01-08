@@ -7,13 +7,13 @@
  *
 */
 
-namespace app\core;
+namespace ho_b7\phpmvc;
 
 /**
  * Class Model
  * 
  * @author houdaifa <boucena214@gmail.com>
- * @package app\core;
+ * @package ho_b7\phpmvc;
 */
 
 abstract class Model 
