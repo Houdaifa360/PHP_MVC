@@ -1,0 +1,15 @@
+{
+    "name": "ho_b7/php-mvc-core",
+    "autoload": {
+        "psr-4": {
+            "HoB7\\PhpMvcCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Houdaifa360",
+            "email": "boucena214@gmail.com"
+        }
+    ],
+    "require": {}
+}
